@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: undead85/undead85.github.io
+  repo: undead85/gatsby-personal-site
   branch: master
   site_domain: sleepy-albattani-fa85c8.netlify.com
 publish_mode: editorial_workflow
